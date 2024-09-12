@@ -240,6 +240,8 @@ Wenn Sie Fragen oder Anregungen haben oder Hilfe benötigen, öffnen Sie bitte e
 
 </a>
 
----
 
-Erstellt von [Timothy J. Baek](https://github.com/tjbck) - Lassen Sie uns Open WebUI gemeinsam noch erstaunlicher machen
+
+Erstellt von [Timothy J. Baek](https://github.com/tjbck) - Lassen Sie uns Open WebUI gemeinsam noch erstaunlicher machen!
+
+------
